@@ -1,4 +1,6 @@
 #!/usr/bin/bash
+echo "creando la página principal"
+./index.sh
 echo "Creando página 1."
 ./pagina1.sh
 echo "Creando página 2."
